@@ -34,7 +34,7 @@ public class Method {
         return (a > b) ? a : b;
     }
 
-    // 7. Print a string message
+  
     public static void printMessage(String message) {
         System.out.println(message);
     }
